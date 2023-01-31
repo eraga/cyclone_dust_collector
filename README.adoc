@@ -24,7 +24,7 @@ This library depends on https://github.com/nophead/NopSCADlib[NopSCADlib] and ca
 
 [source,bash,subs=attributes+]
 ----
-git clone submodule https://github.com/eraga/{openscad_lib_name} lib/{openscad_lib_name}
+git submodule add https://github.com/eraga/{openscad_lib_name} lib/{openscad_lib_name}
 ----
 
 
